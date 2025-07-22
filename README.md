@@ -28,3 +28,9 @@ Here are some ideas to get you started:
 🌱 Learning: Accessibility, responsive design, and modern JavaScript practices.
 
 📫 Let’s connect! Portfolio: https://www.linkedin.com/in/avilekh-kunwar/
+<!--
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/efdb7e66-e39e-4341-b1e3-cb6c56729d30" alt="image1" style="height: 50px; object-fit: contain;" />
+  <img src="https://github.com/user-attachments/assets/49d5ba39-4ea5-4f70-965a-f8daafe3cfe2" alt="image2" style="height: 50px; object-fit: contain;" />
+</p>
+-->
