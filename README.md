@@ -34,3 +34,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/user-attachments/assets/49d5ba39-4ea5-4f70-965a-f8daafe3cfe2" alt="image2" style="height: 50px; object-fit: contain;" />
 </p>
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avilekhk&layout=compact)
