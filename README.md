@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I'm Avilekh Kunwar (Avi) from Australia.
+
+💻 I'm a passionate learner transitioning into tech, with a background in IT support and web development.
+
+🛠️ Tech Stack: HTML | CSS | JavaScript | React | Git | Figmam | Vercel |
+
+🚀 Currently working on: personal website projects, bug fixing, and improving my front-end and back-end skills.
+
+🎯 My goal: To become a full-time software developer who builds meaningful, user-friendly experiences.
+
+🌱 Learning: Accessibility, responsive design, and modern JavaScript practices.
+
+📫 Let’s connect! Portfolio: https://www.linkedin.com/in/avilekh-kunwar/
