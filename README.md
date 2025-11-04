@@ -9,7 +9,7 @@
 
 💻 I'm a passionate learner transitioning into tech, with a background in IT support and web development.
 
-🛠️ Tech Stack: HTML | CSS | JavaScript | React | Git | Figmam | Vercel |
+🛠️ Tech Stack: HTML | CSS | JavaScript | React | Git | Figma | Vercel |
 
 🚀 Currently working on: personal website projects, bug fixing, and improving my front-end and back-end skills.
 
