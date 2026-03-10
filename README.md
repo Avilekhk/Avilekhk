@@ -1,26 +1,48 @@
-## Hi there 👋
+# Hi 👋 I'm Avilekh Kunwar
 
-<!--
-**Avilekhk/Avilekhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer based in Australia
 
--->
+I am an IT graduate transitioning into software development.  
+Currently building projects using modern web technologies while strengthening my skills in both front-end and back-end development.
 
-👋 Hi, I'm Avilekh Kunwar (Avi) from Australia.
+---
 
-💻 I'm a passionate learner transitioning into tech, with a background in IT support and web development.
+## 🚀 About Me
 
-🛠️ Tech Stack: HTML | CSS | JavaScript | React | Git | Figma | Vercel | NodeJS | Express.js |
+• IT graduate with a passion for building web applications  
+• Currently learning full-stack development  
+• Background in IT support and customer-focused roles  
+• Interested in internships and junior developer opportunities  
 
-🚀 Currently working on: personal website projects, bug fixing, and improving my front-end and back-end skills.
+---
 
-🎯 My goal: To become a full-time software developer who builds meaningful, user-friendly experiences.
+## 🛠 Tech Stack
 
-🌱 Learning: Accessibility, responsive design, and modern JavaScript practices.
+Frontend  
+HTML | CSS | JavaScript | React
 
-📫 Let’s connect! Portfolio: https://www.linkedin.com/in/avilekh-kunwar/
-<!--
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/efdb7e66-e39e-4341-b1e3-cb6c56729d30" alt="image1" style="height: 50px; object-fit: contain;" />
-  <img src="https://github.com/user-attachments/assets/49d5ba39-4ea5-4f70-965a-f8daafe3cfe2" alt="image2" style="height: 50px; object-fit: contain;" />
-</p>
--->
+Backend  
+Node.js | Express.js
+
+Tools  
+Git | GitHub | Figma | Vercel | VS Code
+
+---
+
+## 📚 Currently Learning
+
+• Modern JavaScript patterns  
+• Accessibility and responsive design  
+• Backend APIs with Node.js  
+• Databases and full-stack architecture  
+
+---
+
+
+
+## 📫 Connect With Me
+
+LinkedIn  
+www.linkedin.com/in/avilekh-kunwar
+
+Always open to **learning opportunities, internships, and collaboration**.
