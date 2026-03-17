@@ -24,6 +24,9 @@ HTML | CSS | JavaScript | React
 Backend  
 Node.js | Express.js
 
+Database
+SQL, PostgreSQL
+
 Tools  
 Git | GitHub | Figma | Vercel | VS Code
 
