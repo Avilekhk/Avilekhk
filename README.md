@@ -1,34 +1,39 @@
 # Hi 👋 I'm Avilekh Kunwar
 
-💻 Aspiring Software Developer based in Australia
+💻 Software Developer in Training | Australia
 
-I am an IT graduate transitioning into software development.  
-Currently building projects using modern web technologies while strengthening my skills in both front-end and back-end development.
+IT graduate transitioning into software development, building full-stack web applications using React, Node.js, and .NET.  
+Passionate about developing scalable solutions and continuously improving both front-end and back-end skills through hands-on projects.
 
 ---
 
 ## 🚀 About Me
 
-• IT graduate with a passion for building web applications  
-• Currently learning full-stack development  
-• Background in IT support and customer-focused roles  
-• Interested in internships and junior developer opportunities  
+• BIT graduate with a focused for building web applications  
+• Developing full-stack skills using React, Node.js, and .NET      
+• Experience in IT support with strong problem-solving and communication skills    
+• Actively seeking internship or junior software developer opportunities    
 
 ---
 
 ## 🛠 Tech Stack
 
-Frontend  
-HTML | CSS | JavaScript | React
+🎨 Frontend   
+HTML | CSS | JavaScript | React | Bootstrap | Tailwind
 
-Backend  
-Node.js | Express.js
+⚙️ Backend     
+Node.js | Express.js | C# | .NET
 
-Database
-SQL, PostgreSQL
+🗄️ Database    
+SQL, PostgreSQL  
+Currently learning SQL Server
 
-Tools  
-Git | GitHub | Figma | Vercel | VS Code
+🧰 Tools & Platforms     
+Git | GitHub | Figma | Vercel | VS Code | JetBrains
+
+⚙️ DevOps & CI/CD    
+CI/CD with GitHub Actions (build & deploy React apps)     
+Automated deployment to Vercel    
 
 ---
 
@@ -38,9 +43,17 @@ Git | GitHub | Figma | Vercel | VS Code
 • Accessibility and responsive design  
 • Backend APIs with Node.js  
 • Databases and full-stack architecture  
+• Cloud Computing (AWS/Azure)  
+• NET Development (ASP.NET Core)  
 
 ---
 
+## ☁️ Cloud & DevOps (Learning)
+
+AWS (EC2, S3, IAM)   
+Azure Fundamentals    
+CI/CD Basics    
+Docker (Beginner)   
 
 
 ## 📫 Connect With Me
