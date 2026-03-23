@@ -1,13 +1,13 @@
-# Hi 👋 I'm Avilekh Kunwar
+# Hi I'm Avilekh Kunwar
 
-💻 Software Developer in Training | Australia
+ Software Developer in Training | Australia
 
-IT graduate transitioning into software development, building full-stack web applications using React, Node.js, and .NET.  
+ IT graduate transitioning into software development, building full-stack web applications using React, Node.js, and .NET.  
 Passionate about developing scalable solutions and continuously improving both front-end and back-end skills through hands-on projects.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 • BIT graduate with a focused for building web applications  
 • Developing full-stack skills using React, Node.js, and .NET      
@@ -16,8 +16,8 @@ Passionate about developing scalable solutions and continuously improving both f
 
 ---
 
-## 🛠 Tech Stack
-🎨 Frontend   
+## Tech Stack
+ Frontend   
 HTML | CSS | JavaScript | React | Bootstrap | Tailwind
 <p align="left">
 
@@ -32,7 +32,7 @@ HTML | CSS | JavaScript | React | Bootstrap | Tailwind
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
 </p>
 
-⚙️ Backend     
+ Backend     
 Node.js | Express.js | C# | .NET
 <p align="left">
   <!-- Backend -->
@@ -45,7 +45,7 @@ Node.js | Express.js | C# | .NET
 
  </p>
 
-🗄️ Database    
+ Database    
 SQL, PostgreSQL  
 Currently learning SQL Server
  <!-- Database -->
@@ -53,7 +53,8 @@ Currently learning SQL Server
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="SQL"/>
  </p>
-🧰 Tools & Platforms     
+ 
+ Tools & Platforms         
 Git | GitHub | Figma | Vercel | VS Code | JetBrains
   <!-- Tools -->
   <p align="left">
@@ -62,13 +63,13 @@ Git | GitHub | Figma | Vercel | VS Code | JetBrains
   <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40" title="Vercel"/>
   </p>
   
-⚙️ DevOps & CI/CD    
+ DevOps & CI/CD    
 CI/CD with GitHub Actions (build & deploy React apps)     
 Automated deployment to Vercel    
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 • Modern JavaScript patterns  
 • Accessibility and responsive design  
@@ -79,14 +80,14 @@ Automated deployment to Vercel
 
 ---
 
-## ☁️ Cloud & DevOps (Learning)
+## Cloud & DevOps (Learning)
 
 AWS (EC2, S3, IAM)   
 Azure Fundamentals    
 CI/CD Basics    
 Docker (Beginner)   
 
-## 📊 My GitHub Stats
+## My GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avilekhk&layout=compact&langs_count=10)
   
